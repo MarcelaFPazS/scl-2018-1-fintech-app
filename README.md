@@ -208,12 +208,12 @@ En base a la propuesta de recomendación es que las modificaciones propuestas su
 Próximos 6 meses (para ver las variaciones de la data )
 - En la iteración n°3 se evaluará la vinculación de la app a la cuenta directa del banco.
 - Se comparará el incremento de usuarios nuevos.
-- El % de dinero destinado a marketing se invertirá en publicidad de Google, Instragarn y spotify, para que nuestra app aparezca en los primeros campos de búsqueda, llegando así a nuestro público objetivo.
+- El % de dinero destinado a marketing se invertirá en publicidad de Google, Instragarn, para que nuestra app aparezca en los primeros campos de búsqueda, llegando así a nuestro público objetivo.
 
 
 ## Hacker edition
  video mostrando el demo del app
-  [Tus Finanzas](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/439a664d67db4042a40d190fbddb13c0-1536705783847.mp4)
+  
  [Tus Finanzas Video](https://www.powtoon.com/online-presentation/b1mSZ9H3Vuu/?mode=movie#/)
   
  
