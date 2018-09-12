@@ -214,7 +214,10 @@ Próximos 6 meses (para ver las variaciones de la data )
 ## Hacker edition
  video mostrando el demo del app
   [Tus Finanzas](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/439a664d67db4042a40d190fbddb13c0-1536705783847.mp4)
+ [Tus Finanzas Video](https://www.powtoon.com/online-presentation/b1mSZ9H3Vuu/?mode=movie#/)
+  
  
 
 ## Para tener acceso a la data de investigación te invitamos a visitar nuestra carpeta de drive.
 [Analisis de Data](https://drive.google.com/drive/u/0/folders/1K3pbyXj_WAkSqfdkE6dA8cO74Sfhifgj)
+
